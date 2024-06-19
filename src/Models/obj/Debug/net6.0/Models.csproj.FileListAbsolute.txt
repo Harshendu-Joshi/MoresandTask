@@ -1,0 +1,12 @@
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/bin/Debug/net6.0/Models.deps.json
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/bin/Debug/net6.0/Models.dll
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/bin/Debug/net6.0/ref/Models.dll
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/bin/Debug/net6.0/Models.pdb
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.csproj.AssemblyReference.cache
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.AssemblyInfoInputs.cache
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.AssemblyInfo.cs
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.csproj.CoreCompileInputs.cache
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.dll
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/ref/Models.dll
+/media/harshendu/Work/DotNetCore/MoresandTask/src/Models/obj/Debug/net6.0/Models.pdb
